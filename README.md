@@ -1,0 +1,1 @@
+This is mnad's first git project!
